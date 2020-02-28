@@ -1,0 +1,18 @@
+10
+##start
+# x y
+S 10 10
+##end
+E -10 -10
+Ce 0 0
+Co1 -10 10
+Co2 10 -10
+#liaisons
+S-Ce
+Ce-E
+Ce-Co1
+Ce-Co2
+Co1-S
+Co2-S
+Co1-E
+Co2-E

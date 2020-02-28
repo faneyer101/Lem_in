@@ -1,0 +1,23 @@
+8
+##commentaire4
+##start
+salut 16 7
+bonjour 14 5
+hello 16 8
+##commentaire5
+##end
+# commentaire1
+fin 22 0
+qwerty 7 14
+tarace 1 -1
+bonjour2 18 16
+qwerty-salut
+salut-hello
+salut-bonjour
+bonjour-hello
+hello-fin
+bonjour-fin
+bonjour-bonjour2
+bonjour2-fin
+salut-tarace
+##commentaire 2

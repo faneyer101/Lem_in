@@ -1,0 +1,24 @@
+3
+##start
+start 300 100
+gauche 200 400
+droite 1500 1000
+middleway 400 400
+middleway2 500 400
+deadend 1500 900
+deadend1 1500 800
+deadend2 1400 700
+autredeadend 300 800
+##end
+fin 300 500
+start-gauche
+start-droite
+gauche-fin
+droite-fin
+droite-deadend
+deadend-deadend1
+deadend1-deadend2
+fin-autredeadend
+gauche-middleway
+middleway-middleway2
+middleway2-fin

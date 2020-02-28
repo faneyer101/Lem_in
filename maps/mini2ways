@@ -1,0 +1,11 @@
+3
+##start
+start 30 10
+gauche 20 40
+droite 150 100
+##end
+fin 30 50
+start-gauche
+start-droite
+gauche-fin
+droite-fin

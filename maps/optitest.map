@@ -1,0 +1,29 @@
+11
+##start
+debut 25 25
+short1 250 75
+short2 250 150
+##end
+sortie 300 300
+long1 50 300
+long2 75 350
+long3 100 400
+long4 125 450
+long5 150 500
+long6 175 550
+long7 200 600
+long8 250 650
+long9 300 700
+debut-short1
+short1-short2
+short2-sortie
+debut-long1
+long1-long2
+long2-long3
+long3-long4
+long4-long5
+long5-long6
+long6-long7
+long7-long8
+long8-long9
+long9-sortie

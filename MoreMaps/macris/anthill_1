@@ -1,0 +1,44 @@
+10
+##start
+# x y
+S 1 1
+A 3 1
+B 3 3
+C 4 -2
+D 7 0
+F 6 2
+G 13 1
+H 6 6
+I 8 9
+J 10 2
+K 12 7
+M -2 2
+N -2 -3
+O 14 4
+P -2 5
+Q 0 5
+R 3 8
+Y 9 -4
+##end
+E 15 1
+S-A
+S-B
+S-Q
+S-N
+S-C
+M-P
+Q-B
+N-M
+N-Y
+Y-E
+G-E
+J-G
+R-H
+R-I
+I-K
+K-O
+B-F
+A-D
+F-J
+J-H
+O-E

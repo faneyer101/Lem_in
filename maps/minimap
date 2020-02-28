@@ -1,0 +1,12 @@
+999
+salle0 50 50
+salle2 50 150
+##end
+salle3 150 300
+##start
+salle4 300 150
+salle0-salle2
+salle2-salle3
+salle3-salle4
+salle3-salle0
+salle2-salle4

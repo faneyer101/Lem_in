@@ -1,0 +1,96 @@
+10
+##start
+# x y
+S 9 7
+##end
+E -4 -5
+avec 0 0
+le 1 5
+nom 3 8
+des 2 0
+salles -2 4
+tu -5 0
+peut -3 7
+fomer -8 4
+une -6 -2
+jolie -8 -2
+phrase 9 2
+espece 7 6
+de 8 4
+petit 10 2
+fils 14 9
+trois 11 3
+... 5 -3
+come -4 -3
+and 6 2
+get 7 4
+your 4 7
+love 0 2
+redbone 2 12
+gauardian 10 10
+of 10 -10
+the -10 10
+galaxy -10 -10
+hey 9 -9
+heyyyyyy 7 5
+what -7 3
+brown -2 3
+matter 0 -4
+all -8 0
+right 0 -8
+i 1 2
+say 6 5
+like 9 8
+it 9 14
+ocrossi 7 1
+matheme 0 9
+now 9 0
+#les liaisons
+E-avec
+E-come
+E-galaxy
+E-right
+E-une
+come-tu
+brown-tu
+brown-salles
+salles-le
+une-jolie
+jolie-all
+all-what
+what-fomer
+what-the
+the-peut
+avec-love
+avec-i
+avec-des
+love-your
+le-nom
+peut-matheme
+matheme-gauardian
+nom-like
+your-S
+i-say
+say-heyyyyyy
+heyyyyyy-espece
+des-and
+and-ocrossi
+ocrossi-phrase
+phrase-S
+E-matter
+matter-...
+...-now
+now-petit
+petit-trois
+trois-fils
+fils-it
+it-redbone
+S-fils
+right-hey
+hey-of
+of-galaxy
+get-de
+de-S
+get-heyyyyyy
+come-matter
+matter-right
